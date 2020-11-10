@@ -1,0 +1,9 @@
+{
+  "name": "extensionName",
+  "description": "extension boiler plate",
+  "creator": "nanangqq",
+  "copyright": "MIT",
+  "product_id": "ext_0",
+  "version": "1.0.0",
+  "build": "0"
+}
